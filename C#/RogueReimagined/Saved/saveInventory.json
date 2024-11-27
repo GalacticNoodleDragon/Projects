@@ -1,0 +1,13 @@
+{
+  "Items": [],
+  "EquippedWeapon": {
+    "Name": "Dagger",
+    "Type": "weapon",
+    "Value": 0
+  },
+  "EquippedArmor": {
+    "Name": "Clothes",
+    "Type": "armor",
+    "Value": 0
+  }
+}
